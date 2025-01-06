@@ -1,0 +1,19 @@
+# IntelliJ ISEA
+.idea/
+*.iml
+
+# Maven
+target/
+!taget/abc/
+# When we needed this file to be tracked
+
+# IntelliJ IDEA Java Build System
+out/
+
+#Others
+node_modules
+dist/
+lib/
+
+# VSCode
+.vscode/
